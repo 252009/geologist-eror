@@ -1,1 +1,2 @@
-# geologist-eror
+# Geologist
+Geologist Project
